@@ -206,6 +206,11 @@ MIT License - feel free to use this project for your portfolio or any purpose!
 
 Built by **Ibrahim Nasir** ([@ibrahimnasir0](https://github.com/ibrahimnasir0))
 
+Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/ibrahimnasir0/)
+- [Website](https://ibrahimnasir.tech)
+- [GitHub](https://github.com/ibrahimnasir0)
+
 Powered by:
 - [GitHub REST API](https://docs.github.com/en/rest)
 - [React](https://react.dev)
