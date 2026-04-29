@@ -237,4 +237,5 @@ Future enhancements:
 
 ---
 
-Made with ❤️ By Ibrahim Nasir    
+Made with ❤️ and React By Ibrahim Nasir
+Pair badge test
