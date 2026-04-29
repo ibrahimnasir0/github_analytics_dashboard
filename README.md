@@ -237,4 +237,4 @@ Future enhancements:
 
 ---
 
-Made with ❤️ and React By Ibrahim Nasir    
+Made with ❤️ By Ibrahim Nasir    
