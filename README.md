@@ -238,4 +238,3 @@ Future enhancements:
 ---
 
 Made with ❤️ and React By Ibrahim Nasir
-Pair badge test
